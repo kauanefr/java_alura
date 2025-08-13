@@ -1,0 +1,2 @@
+let idade; // declarando variável
+
